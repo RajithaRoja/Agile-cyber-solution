@@ -1,0 +1,18 @@
+
+div{
+    height: 300px;
+    width:400px;
+    background-color: rgb(180, 197, 197);
+    margin: 100px 400px;
+    padding:10px;
+    padding-right: 1px;
+}
+table, th, td {
+border-collapse: collapse;
+margin:40px 10px;
+padding: 10px;
+}
+th , td{
+height:20px;
+width: 120px;
+}
