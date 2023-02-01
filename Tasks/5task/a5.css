@@ -1,0 +1,23 @@
+
+        p {
+            text-align: center;
+            font-size:large;
+            font-weight: bold;
+            letter-spacing: 3ch;
+            color: white;
+        }
+        #num {
+            background-color: black;
+            height: 750px;
+            margin:0px 250px;
+            padding:30px;
+        }
+       
+        .b,.c,.d,.e,.f,.g,.h,.i,.j{
+            background-color: #07b186;
+            height: 20px;    
+            margin:20px 200px;
+        }
+        
+
+   
