@@ -1,0 +1,75 @@
+
+#float {
+   background-color: lightgray;
+   margin: 2% 20%;
+   height: 700px;
+}
+*{
+    padding: 1%;
+    margin:1%;
+}
+.a,.b,.d,.e,.f,.g,.h{
+    height:15%;
+}
+.a,.c,.d,.e,.g,.i,.j,.k,.n{
+    float:left;
+}
+.a,.d{
+    width: 20%;
+}
+.a{
+    background-color: red;     
+}
+.b,.f,.h,.m{
+    float: right;
+}
+.b{
+    background-color: blue;
+    width: 70%;
+}
+.c{
+    background-color:#c0cc11;
+    width:96%;
+    height: 20%;  
+}
+.d{
+    background-color: greenyellow;
+}
+.e{
+    background-color: purple;
+}
+.e,.f{
+    width: 33%;
+}
+.f{
+    background-color: violet;
+}
+.g{
+    background-color:orange ;
+    width: 50%;
+}
+.h{
+    background-color: yellow;
+    width: 40%;
+}
+.i,.j,.k,.m{
+    width:21%;
+    height: 5%;
+}
+.i{
+    background-color: green;
+}
+.j{
+    background-color: skyblue;
+}
+.k{
+    background-color: brown;
+}
+.m{
+    background-color:rgb(9, 9, 133);
+}
+.n{
+    background-color: black;
+    height:2%;
+    width:96%;
+}
