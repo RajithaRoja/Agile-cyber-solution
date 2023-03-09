@@ -1,0 +1,44 @@
+
+body{
+    background: rgb(190, 252, 182);
+    color: hwb(0 7% 92%);
+    text-align: center;
+}
+@font-face {
+    font-family:stylish ;
+    src: url(./If2QXTv_ZzSxGIO30LemWEOmt1bHqs4pgicOrg.ttf);
+}
+h1{
+    font-family: stylish;
+}
+@font-face {
+    font-family: heartine;
+    src: url(./LucySaidOkPersonalUseItalic-OV9ee.ttf);
+}
+h2{
+    font-family: heartine;
+}
+@font-face {
+    font-family:aria ;
+    src: url(./GoldropspersonaluseRegular-9Ynn5.otf);
+}
+h3{
+font-family: aria;
+}
+@font-face {
+    font-family: reey;
+    src: url(./Reey-Regular\ \(1\).otf);
+}
+h4{
+   font-family: reey;
+}
+h5{
+    font-family:heartine;  
+}
+@font-face {
+    font-family: san;
+    src: url(./ZgNSjPJFPrvJV5f16Sf4pGT2Ng.ttf);
+}
+h6{
+    font-family: san;
+}
