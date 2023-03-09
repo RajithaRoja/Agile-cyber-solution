@@ -1,0 +1,56 @@
+label{
+    width:200px;
+    display: inline-block;
+}
+p,h1{
+    color: white;
+    text-align:center ;
+}
+strong{
+    color:red;
+    text-align:center ;
+}
+body{
+    background-image: url("6.jpg");
+}
+
+#flex{
+    background-color:rgba(20, 218, 218, 0.568);
+    width:900px;
+    height:500px;
+    margin:0px 200px;
+    padding:50px;
+    color: white;
+    font-weight:bold ;
+}
+input{
+    margin: 1%;
+    background-color:rgba(20, 218, 218, 0.568);
+   border-top-color: white;
+    font-weight:bold ;
+}
+
+input[type="text"]{
+    border-color: white;
+    color:white;
+} 
+
+#submit,#reset{
+width: 15em;
+height:3em; 
+color: white;
+font-weight:bold ;
+border:1px;
+}
+#submit{
+background-color: rgb(66, 177, 228);
+border-color: rgb(66, 177, 228);
+
+}
+#reset{
+background-color: rgb(161, 151, 8);
+border-color: rgb(161, 151, 8);
+}
+.z{
+margin:30px 200px;
+}
