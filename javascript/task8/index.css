@@ -1,0 +1,46 @@
+.keyboard {
+    width: 500px;
+    background-color: #ccc;
+  }
+  
+  .keyboard div {
+    float: left;
+    margin: 7px;
+    padding: 10px;
+    background-color: #eee;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .shift {
+    background-color: #f2f2f2;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
+  .capslock {
+    background-color: #f2f2f2;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
+  .backspace {
+    background-color: #f2f2f2;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
+  .enter {
+    background-color: #f2f2f2;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
+  .space {
+    background-color: #f2f2f2;
+    font-size: 15px;
+    font-weight: bold;
+    width: 175px;
+  }
