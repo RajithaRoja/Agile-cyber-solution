@@ -1,0 +1,16 @@
+#float{
+    width:25%;
+    margin:10% 35%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+ .box {
+     background-color: blue;
+     width:100px;
+     height:100px;
+     padding: 2%;
+     margin:1%;  
+     text-align: center;
+ }
+ 
